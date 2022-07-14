@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theprotocolwhisperer
 - 👀 I’m interested in Web3 Development , cryptography , DeFi Protocols and open-source Soft.
-- 🌱 I’m currently learning Solidity , Docker and Ansible
+- 🌱 I’m currently learning Solidity ,AWS ,Docker and Ansible
 - 💞️ I’m looking to collaborate on open-source javascript project for web3
 - 📫 Feel free to connect in Tw @protocolwhisp
 
